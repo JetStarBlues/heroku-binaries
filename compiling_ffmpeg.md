@@ -16,8 +16,8 @@ sudo apt-get -y install autoconf automake build-essential \
 ```
 Using `sudo apt-get` means the files are installed onto your computer and thus useless for our purposes.
 
-Specifically, anything starting with `lib` shouldn't be installed this way and should instead be compiled 
-from source in the same directory as your ffmpeg_build
+Specifically, anything beginning with `lib` shouldn't be installed this way and should instead be compiled 
+from source into your ffmpeg_build directory.
 
 <br><br>
 
