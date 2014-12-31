@@ -1,5 +1,5 @@
 
-#####Building a standalone ffmpeg
+####Building a standalone ffmpeg
 
 The following steps apply to *Ubuntu*
 
