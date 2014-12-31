@@ -3,7 +3,7 @@
 
 The following steps apply to *Ubuntu*
 
-So you basically want to do as is shown on the [official docs][1]
+So you basically want to follow the steps on the [official docs][1]
 
 The big **catch** to watch out for is the second step where you install a bunch of files
 
