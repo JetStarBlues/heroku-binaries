@@ -28,7 +28,7 @@ Here's some starter code ...
 
 sudo apt-get update
 sudo apt-get -y install autoconf automake build-essential \
-  pkg-config texi2html zlib1g-dev
+  libtool pkg-config texi2html zlib1g-dev
 mkdir ~/ffmpeg_sources
 
 ... Yasm ...
