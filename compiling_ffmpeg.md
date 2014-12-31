@@ -17,7 +17,7 @@ sudo apt-get -y install autoconf automake build-essential \
 Using `sudo apt-get` means the files are installed onto your computer and thus useless for our purposes.
 
 Specifically, anything beginning with `lib` shouldn't be installed this way and should instead be compiled 
-from source into your ffmpeg_build directory.
+from source into your *ffmpeg_build* directory.
 
 <br><br>
 
@@ -82,7 +82,7 @@ The rest can be found on the [official docs][1]
 
 
 I skipped installing `libass`, `libfreetype6`, and `libgpac` for this build.
-But if you need them for your build, you would probably have to compile them from source as above.
+But if you need them for your build, you probably have to compile them from source as above.
 
 
 [1]: https://trac.ffmpeg.org/wiki/CompilationGuide/Ubuntu
