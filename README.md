@@ -5,9 +5,8 @@ Heroku binaries
 In the style of https://github.com/flect/heroku-binaries
 
 Needed additional libraries not included in FLEC's ffmpeg version
-
----
-This was built as follows...
+<br><br>
+**This was built as follows...**
 ```
   built on Dec 30 2014 20:20:26 with gcc 4.8 (Ubuntu 4.8.2-19ubuntu1)
   configuration: 
