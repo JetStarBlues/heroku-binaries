@@ -6,7 +6,7 @@ In the style of https://github.com/flect/heroku-binaries
 
 Needed additional libraries not included in FLEC's ffmpeg version
 <br><br>
-**This was built as follows...**
+**FFmpeg was built as follows...**
 ```
   built on Dec 30 2014 20:20:26 with gcc 4.8 (Ubuntu 4.8.2-19ubuntu1)
   configuration: 
@@ -25,6 +25,5 @@ Needed additional libraries not included in FLEC's ffmpeg version
   --enable-nonfree
 ```
 
-<br><br>
-For one way to build ffmpeg from source, checkout [this][1]
+For one way to build ffmpeg from source, see [this][1]
 [1]:https://github.com/JetStarBlues/heroku-binaries/blob/master/compiling_ffmpeg.md
