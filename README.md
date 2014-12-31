@@ -26,5 +26,5 @@ Needed additional libraries not included in FLEC's ffmpeg version
 ```
 
 <br><br>
-For one way to build your own, checkout [this][1]
-[1]:somelink.cdfsfd
+For one way to build your ffmpeg from source, checkout [this][1]
+[1]:https://github.com/JetStarBlues/heroku-binaries/blob/master/compiling_ffmpeg.md
